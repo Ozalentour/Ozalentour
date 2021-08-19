@@ -16,10 +16,10 @@ Destiné à tous types d'acteurs dans le monde, Ozalentour est une formidable pl
 
 
 
-<p style="float:right">Mise à disposition d'un jeton de paiement simulant la valeur de l'€uro via la blockchain Stellar : OZAPHYRE (OZP) <img src="https://imagizer.imageshack.com/v2/100x75q90/924/QNNHCc.png" /></p>
+<p style="float:right">Mise à disposition d'un jeton de paiement simulant la valeur de l'€uro via la blockchain Stellar : OZAPHYRE (OZP) <img src="https://imagizer.imageshack.com/v2/100x75q90/922/lXzCGY.png" /></p>
 
-<p style="float:right"> Mise à disposition d'un jeton de réserve adossé à un panier de devises via la blockchain BSC : OZAGOLD (OZG)  <img src="https://imagizer.imageshack.com/v2/100x75q90/922/rawCBx.png" /></p>
+<p style="float:right"> Mise à disposition d'un jeton de réserve adossé à un panier de devises via la blockchain BSC : OZAGOLD (OZG)  <img src="https://imagizer.imageshack.com/v2/100x75q90/922/jK4ins.png" /></p>
 
-<p style="float:right">Mise à disposition d'un écosystème financier indépendant permettant d'effectuer jusqu'à 3000 tx/sec : OZALENTOUR ** <img src="https://imagizer.imageshack.com/v2/100x75q90/922/qqyiZd.png" /></p>
+<p style="float:right">Mise à disposition d'un écosystème financier indépendant permettant d'effectuer jusqu'à 3000 tx/sec : OZALENTOUR ** <img src="https://imagizer.imageshack.com/v2/100x75q90/924/AUMKML.png" /></p>
 
 
