@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href= "#">
-    <img src="https://presale.ozalentour.com/wp-content/uploads/2021/08/ecosysteme-2-2048x2048.png" style="width:250px" alt="Ozalentour OzaGold"/>
+    <img src="https://presale.ozalentour.com/wp-content/uploads/2021/08/ecosysteme-2-2048x2048.png" style="width:50px" alt="Ozalentour OzaGold"/>
   </a>
 </p>
 
