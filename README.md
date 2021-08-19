@@ -1,12 +1,12 @@
 
-<p align="right">
+## Ozalentour
+<p align="center">
   <a href= "#">
-    <img src="https://imagizer.imageshack.com/img922/2880/qqyiZd.png" alt="Ozalentour"/>
+    <img src="https://imagizer.imageshack.com/img922/2337/cEkNpy.png" alt="Ozalentour"/>
   </a>
 </p>
 
 
-## Ozalentour
 
 Profitez d'une économie complémentaire en cryptomonnaie
 
