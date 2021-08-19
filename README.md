@@ -1,7 +1,7 @@
 
-<p align="center">
+<p align="right">
   <a href= "#">
-    <img src="https://imagizer.imageshack.com/img922/3176/rawCBx.png" style="width:50px;height:100px;" alt="Ozalentour OzaGold"/>
+    <img src="https://imagizer.imageshack.com/img922/3176/rawCBx.png" alt="Ozalentour OzaGold"/>
   </a>
 </p>
 
@@ -14,4 +14,9 @@ Destiné à tous types d'acteurs dans le monde, Ozalentour est une formidable pl
 
 **Mise à disposition d'un jeton de paiement simulant la valeur de l'€uro via la blockchain Stellar : OZAPHYRE (OZP)
 **Mise à disposition d'un jeton de réserve adossé à un panier de devises via la blockchain BSC : OZAGOLD (OZG) 
+<p align="right">
+  <a href= "#">
+    <img src="https://imagizer.imageshack.com/img922/3176/rawCBx.png" alt="Ozalentour OzaGold"/>
+  </a>
+</p>
 **Mise à disposition d'un écosystème financier indépendant permettant d'effectuer jusqu'à 3000 tx/sec : OZALENTOUR
