@@ -17,11 +17,6 @@ Destiné à tous types d'acteurs dans le monde, Ozalentour est une formidable pl
 **Mise à disposition d'un écosystème financier indépendant permettant d'effectuer jusqu'à 3000 tx/sec : OZALENTOUR
 
 
-<div align="center">
-  <p style="float:right"><img src="https://imagizer.imageshack.com/img922/3176/rawCBx.png" /></p>
-  <p>🚆 im still learning and my present goal is [web3 dAPPS][Eth Smartcontract] [usage and construction of token] </p>
-  <p>🔭 I’m currently working on my project [Potencia] a new Cooperative bank system based on Tesoz </p>
-  <p>🌱 I’m always learning ... but these days im in :  Web3js, GraphQL </p>
-  <p>👯 I have do a internship at [Automatly] my status was FullStack Wep developper </p>
-  <p>💬 Ask me about anything :D </p>
- </div>
+<p style="float:right"><img src="https://imagizer.imageshack.com/v2/100x75q90/922/rawCBx.png" /></p>
+<p>blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla</p>
+<p>blabla</p>
